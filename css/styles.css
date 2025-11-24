@@ -1,13 +1,29 @@
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f0f0f0;
+  color: aliceblue;
+  background-color: #0b225a;
   margin: 0;
   padding: 0;
 }
 
 h1 {
-  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
 }
+
+p{
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
+
+
+
+
+
+
 #result .green {
   color: #2ecc71;
 }
@@ -15,3 +31,29 @@ h1 {
 #result .red {
   color: #e74c3c;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
